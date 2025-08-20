@@ -1,0 +1,8 @@
+
+### Test Improve Prompt API
+POST http://localhost:5000/api/improve
+Content-Type: application/json
+
+{
+  "query": "sunset beach"
+}
